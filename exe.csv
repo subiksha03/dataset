@@ -1,0 +1,48 @@
+File,RT_RCDATA,RT_ICON,RT_GROUP_ICON,RT_VERSION_INFO
+files/AnyDesk.exe,0,1,1,0
+files/AvastUI.exe,0,1,1,0
+files/avira.exe,0,1,1,0
+files/Cyberfox.exe,0,1,1,0
+files/discord.exe,0,0,0,0
+files/Dropbox.exe,0,1,1,0
+files/AfterFX.exe,0,1,1,0
+files/emu8086.exe,0,1,1,0
+files/firefox.exe,0,1,1,0
+files/FoxitPDFReader.exe,0,0,0,0
+files/GoogleDriveFS.exe,0,0,0,0
+files/googleearth.exe,0,1,1,0
+files/HxD.exe,1,1,1,0
+files/inkscape.exe,0,1,1,0
+files/iTunes.exe,0,1,1,0
+files/malwarebytes.exe,0,1,1,0
+files/MSACCESS.EXE,0,1,1,0
+files/MSPUB.EXE,0,1,1,0
+files/MusicBee.exe,0,1,1,0
+files/openoffice base.exe,1,1,1,0
+files/openoffice calc.exe,1,1,1,0
+files/openoffice draw.exe,0,0,0,0
+files/openoffice impress.exe,1,1,1,0
+files/openoffice math.exe,1,1,1,0
+files/openoffice writer.exe,1,1,1,0
+files/opera.exe,0,1,1,0
+files/openoffice.exe,1,1,1,0
+files/OneDrive.exe,0,1,1,0
+files/OUTLOOK.EXE,1,1,1,0
+files/Photoshop.exe,0,1,1,0
+files/putty.exe,0,1,1,0
+files/ShareX.exe,0,1,1,0
+files/Skype.exe,0,0,0,0
+files/Spotify.exe,0,1,1,0
+files/steam.exe,0,1,1,0
+files/thunderbird.exe,0,1,1,0
+files/uTorrent.exe,1,1,1,0
+files/WinRAR.exe,0,1,1,0
+files/Wireshark.exe,0,1,1,0
+files/vlc.exe,0,0,0,0
+files/Zoom.exe,0,1,1,0
+files/EXCEL.EXE,0,1,1,0
+files/POWERPNT.EXE,0,1,1,0
+files/WinZip.exe,0,1,1,0
+files/slack.exe,0,1,1,0
+files/WINWORD.EXE,0,1,1,0
+files/Illustrator.exe,0,1,1,0
