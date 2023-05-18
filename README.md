@@ -2,17 +2,17 @@ According to the statistics, in the first half of 2022, there were 236.1 million
 
 The data of 61 benign files and 86 ransomware files which totals to 147 samples was processed. The label field (class = 0 for benign files and 1 for ransomware) is added. Finally, utilized these 15 selected features to provide to the machine learning classifiers to classify  ransomware and benign files.
 
-Category	     Features Selected 
+Category	 |    Features Selected 
 
-API CALLS	      advapi32.dll, user32.dll, kernel32.dll, mpr.dll, comctl32.dll, msvcrt.dll
+API CALLS	  |   advapi32.dll, user32.dll, kernel32.dll, mpr.dll, comctl32.dll, msvcrt.dll
 
 STRINGS	        bitcoin, mscoree.dll, COMDLG32.dll, onion
 
 EMBEDDED
-EXECUTABLE      RT_RCDATA, RT_ICON, RT_GROUP_ICON, RT_VERSION_INFO
+EXECUTABLE   |   RT_RCDATA, RT_ICON, RT_GROUP_ICON, RT_VERSION_INFO
 FILES	
 
-Entropy	         Value Greater than 7
+Entropy	     |    Value Greater than 7
 
-DNS Requests	   Value greater than 30 in 10 seconds
+DNS Requests	 |  Value greater than 30 in 10 seconds
 
