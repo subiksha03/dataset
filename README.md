@@ -6,11 +6,11 @@ Category	 |    Features Selected
 
 API CALLS	  |   advapi32.dll, user32.dll, kernel32.dll, mpr.dll, comctl32.dll, msvcrt.dll
 
-STRINGS	        bitcoin, mscoree.dll, COMDLG32.dll, onion
+STRINGS	     |   bitcoin, mscoree.dll, COMDLG32.dll, onion
 
 EMBEDDED
-EXECUTABLE   |   RT_RCDATA, RT_ICON, RT_GROUP_ICON, RT_VERSION_INFO
-FILES	
+EXECUTABLE   |  
+FILES	           RT_RCDATA, RT_ICON, RT_GROUP_ICON, RT_VERSION_INFO
 
 Entropy	     |    Value Greater than 7
 
